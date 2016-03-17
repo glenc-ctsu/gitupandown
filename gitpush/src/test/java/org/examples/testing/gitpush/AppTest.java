@@ -35,5 +35,6 @@ public class AppTest
     {
         System.out.println( "Hello World!" );
         assertTrue( true );
+         System.out.println( "Hello World!    ------------" );
     }
 }
